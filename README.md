@@ -9,7 +9,7 @@
 - :pencil2: Created [blog](https://vaibhavmande.com/jsnotes/ "jsnotes blog") using Next.js and MDX which contains JavaScript quick reference material
 - :white_check_mark: Created [website](https://vaibhavmande.com/todo-today/ "Todo") to manage daily tasks 
 - ✨ Check my [portfolio](https://vaibhavmande.com/ "Vaibhav Mande") built using SASS 
-- 🔭 Currently working on a website to log daily sugar levels for diabetic patients. ([Source](https://github.com/vaibhavmande/sugar-log))
+- 🔭 Currently working on a website to log daily sugar levels for diabetic patients. ([Demo](https://vaibhavmande.com/sugar-log/))
 
 #### Skills 👨‍💻
 
