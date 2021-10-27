@@ -6,28 +6,87 @@
 
 ##### WORK
 
-- :pencil2: Created [blog](https://vaibhavmande.com/jsnotes/ "jsnotes blog") using Next.js and MDX which contains JavaScript quick reference material
-- :white_check_mark: Created [website](https://vaibhavmande.com/todo-today/ "Todo") to manage daily tasks 
-- ✨ Check my [portfolio](https://vaibhavmande.com/ "Vaibhav Mande") built using SASS 
-- 🔭 Currently working on a website to log daily sugar levels for diabetic patients. ([Demo](https://vaibhavmande.com/sugar-log/))
+- ✨ &nbsp; Check my [portfolio](https://vaibhavmande.com/ "Vaibhav Mande") built using SASS
+- :pencil2: &nbsp; Created [blog](https://vaibhavmande.com/jsnotes/ "jsnotes blog") using Next.js and MDX which contains JavaScript quick reference material
+- :white_check_mark: &nbsp; Created [website](https://vaibhavmande.com/todo-today/ "Todo") to manage daily tasks using styled-components bundled with parcel
+- 🔭  &nbsp; Created a website to log daily sugar levels for diabetic patients. ([Demo](https://vaibhavmande.com/sugar-log/))
+- :page_facing_up: &nbsp; Check my LinkedIn Assessments - JavaScript & CSS [LinkedIn Skill Assessment Certified](https://www.linkedin.com/in/vaibhavmande/)
+- :envelope: &nbsp; Check my React certificate, [Front-End Web Development in React Certificate](https://coursera.org/share/4be7bd76752ae1cf70e8dd89e70615ef 'Certificate')
 
-#### Skills 👨‍💻
+#### Tools I like to work with 👨‍💻
 
-- React.js, [Front-End Web Development in React Certificate](https://coursera.org/share/4be7bd76752ae1cf70e8dd89e70615ef 'Certificate')
-- JavaScript & CSS [LinkedIn Skill Assessment Certified](https://www.linkedin.com/in/vaibhavmande/)
-- Next.js [➡️](https://nextjs.org/)
-- Styled Components [➡️](https://styled-components.com/)
-- React Testing library [➡️](https://testing-library.com/)
-- WebdriverIO [➡️](https://webdriver.io/)
-- SASS [➡️](https://sass-lang.com/)
-- Responsive web design
-
-##### ABOUT ⭐️
-
-- :office: I'm currently working at **Globant, India**
-- :memo: I write at [**Medium**](https://vaibhavmande.medium.com/ 'Vaibhav Mande on Medium')
-- :octocat: Apart from work, I spend most of my time here at [GitHub](https://github.com/vaibhavmande "Vaibhav Mande on GitHub").
-- 🦸 I'm a huge fan of Marvel movies
+<table align="">
+  <tr bgcolor="red">
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+		<td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+		<td align="center" width="96">
+      <a href="#">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+		<td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+		<td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+		<td align="center" width="96">
+      <a href="#>
+        <img src="https://testing-library.com/img/logo-large.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React Testing Library
+    </td>
+  </tr>
+	<tr>
+		<td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Styled Components
+    </td>
+		<td align="center" width="96">
+      <a href="#">
+        <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>SASS
+    </td>
+		<td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://webdriver.io/img/logo-webdriver-io.png" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>WebdriverIO
+    </td>
+		<td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Material ui
+    </td>
+  </tr>
+</table>
 
 ##### CONTACT
 - [LinkedIn](https://www.linkedin.com/in/vaibhavmande/ "Vaibhav Mande on LinkedIn") 
@@ -36,5 +95,6 @@
 - [Twitter](https://twitter.com/vaibhvmande "Vaibhav Mande on Twitter") 
 - [StackOverflow](https://stackoverflow.com/u/2157907 "Vaibhav Mande on StackOverflow")
 
-#### GitHub stats
+<br/>
+
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavmande&show_icons=true&theme=buefy&hide=contribs&count_private=true)
