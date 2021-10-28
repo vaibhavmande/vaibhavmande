@@ -48,7 +48,7 @@
       <br>Next JS
     </td>
 		<td align="center" width="96">
-      <a href="#>
+      <a href="#">
         <img src="https://testing-library.com/img/logo-large.png" width="48" height="48" alt="React" />
       </a>
       <br>React Testing Library
