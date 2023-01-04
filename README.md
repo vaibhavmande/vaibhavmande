@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Front-End Developer from Canada 🇨🇦. I’m a [React](https://reactjs.org/) nerd. I strongly advocate test-driven development. View my [certificate](https://coursera.org/share/f1dd8e3a2bffb37ec95dced4c60581d6 "Front-End Web Development with React Certificate") in React. 
+#### I'm a Front-End Developer currently living in Canada 🇨🇦. I love building web applications using [React](https://reactjs.org/). I strongly advocate test-driven development. View my [certificate](https://coursera.org/share/f1dd8e3a2bffb37ec95dced4c60581d6 "Front-End Web Development with React Certificate") in React. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavmande/ "Vaibhav Mande on LinkedIn")
 
