@@ -94,7 +94,3 @@
 - [Medium](https://vaibhavmande.medium.com/ "Vaibhav Mande on Medium") 
 - [Twitter](https://twitter.com/vaibhvmande "Vaibhav Mande on Twitter") 
 - [StackOverflow](https://stackoverflow.com/u/2157907 "Vaibhav Mande on StackOverflow")
-
-<br/>
-
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavmande&show_icons=true&theme=buefy&hide=contribs&count_private=true)
