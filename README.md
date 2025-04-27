@@ -1,17 +1,11 @@
 ### Hi there 👋
 
-#### I'm a Front-End Developer currently living in Canada 🇨🇦. I love building web applications using [React](https://reactjs.org/). I strongly advocate test-driven development. View my [certificate](https://coursera.org/share/f1dd8e3a2bffb37ec95dced4c60581d6 "Front-End Web Development with React Certificate") in React. 
+I’m an experienced front-end developer specializing in React and TypeScript. I have a strong focus on writing clean, testable code, ensuring reliability through both unit and integration tests. Over the years, I’ve led and designed projects from scratch, and have experience writing deployment code and managing front-end deployment pipelines.
+
+View my [certificate](https://coursera.org/share/f1dd8e3a2bffb37ec95dced4c60581d6 "Front-End Web Development with React Certificate") in React. 
+You can find more about me at [vaibhavmande.com](https://vaibhavmande.com/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavmande/ "Vaibhav Mande on LinkedIn")
-
-##### WORK
-
-- ✨ &nbsp; Check my [portfolio](https://vaibhavmande.com/ "Vaibhav Mande") built using SASS
-- :pencil2: &nbsp; Created [blog](https://vaibhavmande.com/jsnotes/ "jsnotes blog") using Next.js and MDX which contains JavaScript quick reference material
-- :white_check_mark: &nbsp; Created [website](https://vaibhavmande.com/todo-today/ "Todo") to manage daily tasks using styled-components bundled with parcel
-- 🔭  &nbsp; Created a website to log daily sugar levels for diabetic patients. ([Demo](https://vaibhavmande.com/sugar-log/))
-- :page_facing_up: &nbsp; Check my LinkedIn Assessments - JavaScript & CSS [LinkedIn Skill Assessment Certified](https://www.linkedin.com/in/vaibhavmande/)
-- :envelope: &nbsp; Check my React certificate, [Front-End Web Development in React Certificate](https://coursera.org/share/4be7bd76752ae1cf70e8dd89e70615ef 'Certificate')
 
 #### Tools I like to work with 👨‍💻
 
@@ -61,11 +55,11 @@
       </a>
       <br>Styled Components
     </td>
-		<td align="center" width="96">
+    <td align="center" width="96">
       <a href="#">
-        <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" width="48" height="48" alt="Node JS" />
+        <img src="https://raw.githubusercontent.com/microsoft/playwright/fe258e6568082950fe7564a879b9e6f6dc8a1da2/packages/trace-viewer/public/playwright-logo.svg" width="48" height="48" alt="Node JS" />
       </a>
-      <br>SASS
+      <br>Playwright
     </td>
 		<td align="center" width="96"> 
       <a href="#" >
@@ -92,5 +86,4 @@
 - [LinkedIn](https://www.linkedin.com/in/vaibhavmande/ "Vaibhav Mande on LinkedIn") 
 - [GitHub](https://github.com/vaibhavmande "Vaibhav Mande on GitHub") 
 - [Medium](https://vaibhavmande.medium.com/ "Vaibhav Mande on Medium") 
-- [Twitter](https://twitter.com/vaibhvmande "Vaibhav Mande on Twitter") 
 - [StackOverflow](https://stackoverflow.com/u/2157907 "Vaibhav Mande on StackOverflow")
